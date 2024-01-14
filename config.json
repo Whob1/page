@@ -6,7 +6,7 @@
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
-  "theme": "https://thumbsup.github.io/docs/4-themes/built-in/", // Your theme
+  "theme": "built-in/", // Your theme
   "css": "./custom.css",
   "footer": "Copyright Text", // Set your copyright text here
   "usage-stats": false
